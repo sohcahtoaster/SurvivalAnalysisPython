@@ -6,4 +6,6 @@ This tutorial assumes the reader is well equipped with statistical knowledge and
   
   This analysis was performed side by side in SAS to verify the results obtained in Python, all code is available  
     
-    Link to Google slides for a presentation: https://docs.google.com/presentation/d/14XN0BkNMWdEmoYDS2RBYpXgcjVDt00QCVqwg_lGNxJw/edit?usp=sharing 
+  Link to Google slides for a presentation:
+  
+  https://docs.google.com/presentation/d/14XN0BkNMWdEmoYDS2RBYpXgcjVDt00QCVqwg_lGNxJw/edit?usp=sharing 
