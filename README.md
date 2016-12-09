@@ -8,4 +8,6 @@ This tutorial assumes the reader is well equipped with statistical knowledge and
     
   Link to Google slides for a presentation:
   
-  https://docs.google.com/presentation/d/14XN0BkNMWdEmoYDS2RBYpXgcjVDt00QCVqwg_lGNxJw/edit?usp=sharing 
+  https://docs.google.com/presentation/d/14XN0BkNMWdEmoYDS2RBYpXgcjVDt00QCVqwg_lGNxJw/edit?usp=sharing   
+    
+  To view the tutorial, click the link 'SurvivalPython.ipynb' above. 
