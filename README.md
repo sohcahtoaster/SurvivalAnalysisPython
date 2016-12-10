@@ -11,3 +11,6 @@ This tutorial assumes the reader is well equipped with statistical knowledge and
   https://docs.google.com/presentation/d/14XN0BkNMWdEmoYDS2RBYpXgcjVDt00QCVqwg_lGNxJw/edit?usp=sharing   
     
   To view the tutorial, click the link 'SurvivalPython.ipynb' above. 
+  
+  
+  Reference: Davidson-Pilon, C., Lifelines, (2016), Github repository, https://github.com/CamDavidsonPilon/lifelines
